@@ -4,7 +4,7 @@
 //
 //  Created by Tony on 6/28/16.
 //  Copyright © 2016 Anthony Cavallo. All rights reserved.
-//  This is just a simple binary calculator game, created to supplement an instructional document for English 3130: Technical Writing
+//  This is just a simple binary calculator game, created to supplement an instructional document for English 3130: Technical Writing.
 
 import UIKit
 
